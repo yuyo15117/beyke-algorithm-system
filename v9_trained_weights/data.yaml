@@ -1,0 +1,10 @@
+# Helmet
+train: /root/autodl-tmp/dataset/defect/train
+val: /root/autodl-tmp/dataset/defect/val
+#test: D:\aaa_my_own_xxj\code\my_own_test\ultralytics\ultralytics\datasets\Helmet\test
+
+nc: 1
+
+# Classes
+names: ['defect']
+
