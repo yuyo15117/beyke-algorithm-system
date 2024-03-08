@@ -1,0 +1,10 @@
+# Helmet
+train: D:\sample-obj-dct-annotated-voc\train
+val: D:\sample-obj-dct-annotated-voc\val
+#test: D:\aaa_my_own_xxj\code\my_own_test\ultralytics\ultralytics\datasets\Helmet\test
+
+
+# Classes
+names:
+  0: decay
+
